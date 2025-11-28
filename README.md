@@ -12,6 +12,6 @@ A modern and responsive e-commerce landing page built using HTML5 and CSS3. The 
 ⭐ Fully Responsive Optimized for laptops, tablets, and 
     mobile devices using custom responsive CS
 
-🛠️ **# Panda-E-commerce-Landing page**
+
 
  
